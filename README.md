@@ -4,6 +4,7 @@ This repository contains data about GitHub users in Stockholm who have over 100 
 ## Files
 - **users.csv**: Contains information about GitHub users in Stockholm with over 100 followers.
 - **repositories.csv**: Contains information about public repositories from these users.
+- **ScrapCode.py** : Python script used to collect data via the GitHub API.
 
 ## Data Collection
 - Data collected using the GitHub API.
